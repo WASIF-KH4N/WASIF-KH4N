@@ -22,7 +22,7 @@
 <!-- <h2 align="center">About me 😇</h2> -->
 <p align="center">
 </p>
- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 
 
@@ -32,7 +32,7 @@
   <div align="left">
     &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
     &nbsp; ⇢ &nbsp; I'm currently learning flutter.</br>
-    &nbsp; ⇢ &nbsp; I have some basic knowledge of python,java,html,css,javascript,c++.</br> 
+    &nbsp; ⇢ &nbsp; I have some basic knowledge of python,java,html,css,dart,c++.</br> 
     &nbsp; ⇢ &nbsp; Fun fact: No bio only computer.</br>
     
 <br />
@@ -45,7 +45,7 @@
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
- <img style="display-inline" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000"/>
+ <img style="display-inline" src="https://img.icons8.com/?size=50&id=lTKW3iI3wIT0&format=png&color=000000"/>
 <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
    </p>
 
