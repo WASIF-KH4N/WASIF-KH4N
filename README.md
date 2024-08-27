@@ -53,11 +53,11 @@
 <br />
 <p align="center">
     <a href="https://github.com/WASIF-KH4N/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wasif Khan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadamas&theme=gruvbox&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wasif Khan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WASIF-KH4N&theme=gruvbox&hide_border=true"/>
     </a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamas&langs_count=8&layout=compact&theme=gruvbox" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WASIF-KH4N&langs_count=8&layout=compact&theme=gruvbox" width="350" />
 <img src="https://github-readme-stats.vercel.app/api?username=WASIF-KH4N&theme=gruvbox&show_icons=true" width="420"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=WASIF-KH4N&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
 </p>
@@ -65,7 +65,7 @@
 ---
 <br />
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=WASIF KH4N">
+    <img src="https://komarev.com/ghpvc/?username=WASIF-KH4N">
 
 </a>
 <a href="https://github.com/WASIF-KH4N?tab=followers"><img src="https://img.shields.io/github/followers/WASIF-KH4N?label=Followers&style=social" alt="GitHub Badge"></a>
