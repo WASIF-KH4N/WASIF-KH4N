@@ -45,7 +45,7 @@
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/java.png"/>
+ <img style="display-inline" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000"/>
 <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
    </p>
 
