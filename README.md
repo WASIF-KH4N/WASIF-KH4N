@@ -27,7 +27,7 @@
 
 
 <!-- Cool Giphy Start here -->
-<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+<!-- <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif"> -->
 <!-- End here -->
   <div align="left">
     &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
