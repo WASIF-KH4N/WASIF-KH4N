@@ -31,6 +31,7 @@
 <!-- End here -->
   <div align="left">
     &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
+    &nbsp; ⇢ &nbsp; How to reach me: m.wasif9905@gmail.com
     &nbsp; ⇢ &nbsp; I'm currently learning flutter.</br>
     &nbsp; ⇢ &nbsp; I have some basic knowledge of python,java,html,css,dart,c++.</br> 
     &nbsp; ⇢ &nbsp; Fun fact: No bio only computer.</br>
