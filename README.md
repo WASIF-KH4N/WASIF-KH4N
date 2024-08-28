@@ -46,7 +46,7 @@
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
  <img style="display-inline" src="https://img.icons8.com/?size=50&id=lTKW3iI3wIT0&format=png&color=000000"/>
 <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="display-inline" src="https://img.icons8.com/?size=100&id=3JYWqbOmqJVn&format=png&color=000000"/>
+<img style="display-inline" src="https://img.icons8.com/?size=50&id=3JYWqbOmqJVn&format=png&color=000000"/>
    </p>
 
 ---
