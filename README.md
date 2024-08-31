@@ -39,6 +39,7 @@
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <p align="center">
+<img style="display-inline" src="https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display-inline" src="https://img.icons8.com/?size=50&id=pCvIfmctRaY8&format=png&color=000000"/>
