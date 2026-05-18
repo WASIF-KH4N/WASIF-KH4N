@@ -42,7 +42,8 @@
 <!--<img style="display-inline" src="https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000"/> -->
  <img style="display:inline; width:45px; height:45px;" 
 src="https://tse2.mm.bing.net/th/id/OIP.hSffko17XRtsutA4yu2jkwHaHv?pid=ImgDet&w=178&h=185&c=7&dpr=1.5&o=7&rm=3"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
+<img style="display:inline;  width:45px; height:45px;"
+  src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display-inline" src="https://img.icons8.com/?size=50&id=pCvIfmctRaY8&format=png&color=000000"/>
 <img style= "display -inline" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
