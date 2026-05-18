@@ -31,7 +31,7 @@
 <!-- End here -->
   <div align="center">
     <p>
-    &nbsp; &nbsp;I am a Computer Science undergraduate with a strong interest in Software Quality Assurance. I have a solid understanding of manual testing, SDLC, and STLC, along with basic hands-on experience in API testing using Postman, database testing using SQL, performance testing using JMeter and basic automation testing using Python with Selenium. I am passionate about identifying defects, improving software quality, and ensuring reliable user experiences. I enjoy learning new tools and technologies and actively building my automation testing skills to strengthen my capabilities. Currently, I am currently focused on enhancing my expertise in automation testing using Python and Selenium while continuing to grow my knowledge in real-world testing practices.
+    &nbsp; &nbsp;I am a Computer Science undergraduate with a strong interest in Software Quality Assurance. I have a solid understanding of manual testing, SDLC, and STLC, along with basic hands-on experience in API testing using Postman, database testing using SQL, performance testing using JMeter and basic automation testing using Python with Selenium. I am passionate about identifying defects, improving software quality, and ensuring reliable user experiences. I enjoy learning new tools and technologies and actively building my automation testing skills to strengthen my capabilities. Currently, I am currently focused on enhancing my expertise in automation testing using Python and Selenium.
     </p>
     
 <br />
