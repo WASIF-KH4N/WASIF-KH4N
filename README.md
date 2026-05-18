@@ -40,20 +40,29 @@
 </p>
 <p align="center">
 <!--<img style="display-inline" src="https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000"/> -->
- <img style="display:inline; width:40px; height:40px;" 
+   <img style="display:inline; width:40px; height:40px;" 
 src="https://tse2.mm.bing.net/th/id/OIP.hSffko17XRtsutA4yu2jkwHaHv?pid=ImgDet&w=178&h=185&c=7&dpr=1.5&o=7&rm=3"/>
    <img style="display:inline; width:40px; height:40px;" 
-src="https://images.seeklogo.com/logo-png/41/2/postman-logo-png_seeklogo-412593.png"/>
+src="https://user-images.githubusercontent.com/49151885/96122371-ad293c00-0ef1-11eb-9e1d-ef148ee03d73.png"/>
    <img style="display:inline; width:40px; height:40px;" 
 src="https://p1.hiclipart.com/preview/456/474/376/icons-6-up-23-dec-10-mysql-sql-logo-png-clipart.jpg"/>
    <img style="display:inline; width:40px; height:40px;" 
 src="https://images.seeklogo.com/logo-png/38/1/jmeter-logo-png_seeklogo-388141.png"/>
+   <img style="display:inline; width:40px; height:40px;" 
+src="https://i.etsystatic.com/52896651/r/il/24aedb/6083186066/il_1080xN.6083186066_6ewa.jpg"/>
+    <img style="display:inline; width:40px; height:40px;" 
+src="https://s.pngkit.com/png/small/154-1545866_html5-icon-html5-logo-png.png"/>
+    <img style="display:inline; width:40px; height:40px;" 
+src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"/>
+
+
+  <!--
 <img style="display:inline; src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display-inline" src="https://img.icons8.com/?size=50&id=pCvIfmctRaY8&format=png&color=000000"/>
-<!--<img style= "display -inline" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/> -->
+<img style= "display -inline" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/> 
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
-<!--<img style="display-inline" src="https://img.icons8.com/?size=50&id=7AFcZ2zirX6Y&format=png&color=000000"/>-->
+<img style="display-inline" src="https://img.icons8.com/?size=50&id=7AFcZ2zirX6Y&format=png&color=000000"/>
  <img style="display-inline" src="https://img.icons8.com/?size=50&id=lTKW3iI3wIT0&format=png&color=000000"/>
 <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <!--<img style="display-inline" src="https://img.icons8.com/?size=50&id=3JYWqbOmqJVn&format=png&color=000000"/>-->
