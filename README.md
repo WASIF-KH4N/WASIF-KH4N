@@ -39,16 +39,15 @@
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <p align="center">
+  
 <!--<img style="display-inline" src="https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000"/> -->
    <img style="display:inline; width:40px; height:40px;" 
  src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png"/>
-  <img style="display:inline; width:40px; height:40px;" 
+   <img style="display:inline; width:40px; height:40px;" 
+ src="https://tse2.mm.bing.net/th/id/OIP.75Ohu5oQaWoAtrbCkbzf3AAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
+   <img style="display:inline; width:40px; height:40px;" 
  src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"/>
-   <img style="display:inline; width:40px; height:40px;" 
- src="https://tse1.mm.bing.net/th/id/OIP.fGpgk9AVa9fKPUnSMhfLCAHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
- 
-  
-   <img style="display:inline; width:40px; height:40px;" 
+    <img style="display:inline; width:40px; height:40px;" 
 src="https://tse4.mm.bing.net/th/id/OIP.lGXbDhpDGpF5uWduBkp3PwHaEh?rs=1&pid=ImgDetMain&o=7&rm=3"/>
    <img style="display:inline; width:40px; height:40px;" 
 src="https://p1.hiclipart.com/preview/456/474/376/icons-6-up-23-dec-10-mysql-sql-logo-png-clipart.jpg"/>
@@ -56,9 +55,7 @@ src="https://p1.hiclipart.com/preview/456/474/376/icons-6-up-23-dec-10-mysql-sql
 src="https://images.seeklogo.com/logo-png/38/1/jmeter-logo-png_seeklogo-388141.png"/>
    <img style="display:inline; width:40px; height:40px;" 
 src="https://i.etsystatic.com/52896651/r/il/24aedb/6083186066/il_1080xN.6083186066_6ewa.jpg"/>
-    <img style="display:inline; width:40px; height:40px;" 
-src="https://s.pngkit.com/png/small/154-1545866_html5-icon-html5-logo-png.png"/>
-    <img style="display:inline; width:40px; height:40px;" 
+   <img style="display:inline; width:40px; height:40px;" 
 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"/>
 
 
