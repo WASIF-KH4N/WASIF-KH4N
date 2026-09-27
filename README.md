@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there I'm Wasif Khan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">  
-<a href="https://www.linkedin.com/in/wasif-khan-1064ab261/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-wasif-khan-1064ab261/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100016376556285&mibextid=ZbWKwL/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/wasif_kh4n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
